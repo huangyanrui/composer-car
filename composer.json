@@ -9,7 +9,9 @@
             "email": "hyr8023@sina.cn"
         }
     ],
-    "minimum-stability": "alpha",
+    "version": "v1.0.1",
+    "version_normalized": "1.0.1.0",
+    "minimum-stability": "dev",
     "require": {
 		"php": ">=5.6.0"
 	},
