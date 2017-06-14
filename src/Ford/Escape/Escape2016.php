@@ -8,4 +8,7 @@ class Escape2016
     {
         echo "This is Ford Escape2016!<br />";
     }
+    public function index(){
+        echo '这是我的测试方法';
+    }
 }
